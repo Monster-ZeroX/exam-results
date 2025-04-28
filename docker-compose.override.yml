@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  # Override the app service for development
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    command: npm run dev
+
+  # Add a data import service
+  importer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - ./data:/app/data
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=postgres://results_user:result_db@postgres:5432/results_db
+    command: node scripts/updated-import.js
+    depends_on:
+      - postgres

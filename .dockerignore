@@ -1,0 +1,43 @@
+# Dependency directories
+node_modules
+npm-debug.log
+
+# Build directories
+dist
+build
+.cache
+
+# Data directory (will be mounted as volume)
+data
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Version control
+.git
+.gitignore
+
+# Docker related
+Dockerfile
+Dockerfile.dev
+docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db

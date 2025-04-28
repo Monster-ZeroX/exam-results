@@ -1,0 +1,18 @@
+FROM node:20-alpine
+
+# Create app directory
+WORKDIR /app
+
+# Install app dependencies
+COPY package*.json ./
+RUN npm install
+
+# Expose port
+EXPOSE 5000
+
+# Set environment variables
+ENV NODE_ENV=development
+ENV DATABASE_URL=postgres://results_user:result_db@postgres:5432/results_db
+
+# Run the dev script
+CMD ["npm", "run", "dev"]
