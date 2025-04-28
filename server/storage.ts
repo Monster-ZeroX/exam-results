@@ -61,13 +61,33 @@ export class DatabaseStorage implements IStorage {
   }
 
   async searchStudentsByName(query: string, limit: number = 20): Promise<SearchSuggestion[]> {
+    // Split the query into individual words for flexible search
+    const searchTerms = query.trim().split(/\s+/).filter(term => term.length >= 2);
+    
+    if (searchTerms.length === 0) {
+      return [];
+    }
+    
+    // Build a dynamic query using SQL
+    // This will search for each word separately and combine the results
+    let whereClause = sql``;
+    
+    // For each search term, create a condition and join with OR
+    searchTerms.forEach((term, index) => {
+      if (index === 0) {
+        whereClause = sql`${students.name} ILIKE ${'%' + term + '%'}`;
+      } else {
+        whereClause = sql`${whereClause} AND ${students.name} ILIKE ${'%' + term + '%'}`;
+      }
+    });
+    
     const results = await db
       .select({
         index_number: students.index_number,
         name: students.name,
       })
       .from(students)
-      .where(ilike(students.name, `%${query}%`))
+      .where(whereClause)
       .limit(limit);
     
     return results;
