@@ -1,0 +1,126 @@
+app_1       | 2:01:26 PM [express] GET /api/search 500 in 20ms :: {"error":"An error occurred while searching stud…
+app_1       | Search error: error: relation "students" does not exist
+app_1       |     at /app/node_modules/pg-pool/index.js:45:11
+app_1       |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+app_1       |     at async <anonymous> (/app/node_modules/src/node-postgres/session.ts:104:19)
+app_1       |     at async DatabaseStorage.searchStudentsByName (/app/server/storage.ts:84:21)
+app_1       |     at async <anonymous> (/app/server/routes.ts:25:23) {
+app_1       |   length: 107,
+app_1       |   severity: 'ERROR',
+app_1       |   code: '42P01',
+app_1       |   detail: undefined,
+app_1       |   hint: undefined,
+app_1       |   position: '36',
+app_1       |   internalPosition: undefined,
+app_1       |   internalQuery: undefined,
+app_1       |   where: undefined,
+app_1       |   schema: undefined,
+app_1       |   table: undefined,
+app_1       |   column: undefined,
+app_1       |   dataType: undefined,
+app_1       |   constraint: undefined,
+app_1       |   file: 'parse_relation.c',
+app_1       |   line: '1392',
+app_1       |   routine: 'parserOpenTable'
+app_1       | }
+app_1       | 2:01:26 PM [express] GET /api/search 500 in 16ms :: {"error":"An error occurred while searching stud…
+app_1       | Search error: error: relation "students" does not exist
+app_1       |     at /app/node_modules/pg-pool/index.js:45:11
+app_1       |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+app_1       |     at async <anonymous> (/app/node_modules/src/node-postgres/session.ts:104:19)
+app_1       |     at async DatabaseStorage.searchStudentsByName (/app/server/storage.ts:84:21)
+app_1       |     at async <anonymous> (/app/server/routes.ts:25:23) {
+app_1       |   length: 107,
+app_1       |   severity: 'ERROR',
+app_1       |   code: '42P01',
+app_1       |   detail: undefined,
+app_1       |   hint: undefined,
+app_1       |   position: '36',
+app_1       |   internalPosition: undefined,
+app_1       |   internalQuery: undefined,
+app_1       |   where: undefined,
+app_1       |   schema: undefined,
+app_1       |   table: undefined,
+app_1       |   column: undefined,
+app_1       |   dataType: undefined,
+app_1       |   constraint: undefined,
+app_1       |   file: 'parse_relation.c',
+app_1       |   line: '1392',
+app_1       |   routine: 'parserOpenTable'
+app_1       | }
+app_1       | 2:01:32 PM [express] GET /api/search 500 in 19ms :: {"error":"An error occurred while searching stud…
+app_1       | Search error: error: relation "students" does not exist
+app_1       |     at /app/node_modules/pg-pool/index.js:45:11
+app_1       |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+app_1       |     at async <anonymous> (/app/node_modules/src/node-postgres/session.ts:104:19)
+app_1       |     at async DatabaseStorage.searchStudentsByName (/app/server/storage.ts:84:21)
+app_1       |     at async <anonymous> (/app/server/routes.ts:25:23) {
+app_1       |   length: 107,
+app_1       |   severity: 'ERROR',
+app_1       |   code: '42P01',
+app_1       |   detail: undefined,
+app_1       |   hint: undefined,
+app_1       |   position: '36',
+app_1       |   internalPosition: undefined,
+app_1       |   internalQuery: undefined,
+app_1       |   where: undefined,
+app_1       |   schema: undefined,
+app_1       |   table: undefined,
+app_1       |   column: undefined,
+app_1       |   dataType: undefined,
+app_1       |   constraint: undefined,
+app_1       |   file: 'parse_relation.c',
+app_1       |   line: '1392',
+app_1       |   routine: 'parserOpenTable'
+app_1       | }
+app_1       | 2:01:33 PM [express] GET /api/search 500 in 18ms :: {"error":"An error occurred while searching stud…
+app_1       | Search error: error: relation "students" does not exist
+app_1       |     at /app/node_modules/pg-pool/index.js:45:11
+app_1       |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+app_1       |     at async <anonymous> (/app/node_modules/src/node-postgres/session.ts:104:19)
+app_1       |     at async DatabaseStorage.searchStudentsByName (/app/server/storage.ts:84:21)
+app_1       |     at async <anonymous> (/app/server/routes.ts:25:23) {
+app_1       |   length: 107,
+app_1       |   severity: 'ERROR',
+app_1       |   code: '42P01',
+app_1       |   detail: undefined,
+app_1       |   hint: undefined,
+app_1       |   position: '36',
+app_1       |   internalPosition: undefined,
+app_1       |   internalQuery: undefined,
+app_1       |   where: undefined,
+app_1       |   schema: undefined,
+app_1       |   table: undefined,
+app_1       |   column: undefined,
+app_1       |   dataType: undefined,
+app_1       |   constraint: undefined,
+app_1       |   file: 'parse_relation.c',
+app_1       |   line: '1392',
+app_1       |   routine: 'parserOpenTable'
+app_1       | }
+app_1       | 2:01:33 PM [express] GET /api/search 500 in 24ms :: {"error":"An error occurred while searching stud…
+app_1       | Search error: error: relation "students" does not exist
+app_1       |     at /app/node_modules/pg-pool/index.js:45:11
+app_1       |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+app_1       |     at async <anonymous> (/app/node_modules/src/node-postgres/session.ts:104:19)
+app_1       |     at async DatabaseStorage.searchStudentsByName (/app/server/storage.ts:84:21)
+app_1       |     at async <anonymous> (/app/server/routes.ts:25:23) {
+app_1       |   length: 107,
+app_1       |   severity: 'ERROR',
+app_1       |   code: '42P01',
+app_1       |   detail: undefined,
+app_1       |   hint: undefined,
+app_1       |   position: '36',
+app_1       |   internalPosition: undefined,
+app_1       |   internalQuery: undefined,
+app_1       |   where: undefined,
+app_1       |   schema: undefined,
+app_1       |   table: undefined,
+app_1       |   column: undefined,
+app_1       |   dataType: undefined,
+app_1       |   constraint: undefined,
+app_1       |   file: 'parse_relation.c',
+app_1       |   line: '1392',
+app_1       |   routine: 'parserOpenTable'
+app_1       | }
+app_1       | 2:01:34 PM [express] GET /api/search 500 in 38ms :: {"error":"An error occurred while searching stud…
