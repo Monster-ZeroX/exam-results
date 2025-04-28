@@ -1,0 +1,18 @@
+[Unit]
+Description=Student Results Portal
+After=network.target postgresql.service
+
+[Service]
+Environment=NODE_ENV=production
+Type=simple
+User=<username>
+WorkingDirectory=/path/to/application
+ExecStart=/usr/bin/node dist/index.js
+Restart=on-failure
+RestartSec=10
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=student-results
+
+[Install]
+WantedBy=multi-user.target
