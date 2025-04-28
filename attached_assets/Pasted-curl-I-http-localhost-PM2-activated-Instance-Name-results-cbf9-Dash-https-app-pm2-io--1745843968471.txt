@@ -1,0 +1,30 @@
+curl -I http://localhost
+⇆ PM2+ activated | Instance Name: results-cbf9 | Dash: https://app.pm2.io/#/r/pspoo4sf24t01mm┌────┬────────────────────┬──────────┬──────┬───────────┬──────────┬──────────┐
+│ id │ name               │ mode     │ ↺    │ status    │ cpu      │ memory   │
+├────┼────────────────────┼──────────┼──────┼───────────┼──────────┼──────────┤
+│ 0  │ results-app        │ fork     │ 0    │ online    │ 0%       │ 77.7mb   │
+└────┴────────────────────┴──────────┴──────┴───────────┴──────────┴──────────┘
+Unit results.service could not be found.
+[TAILING] Tailing last 15 lines for [results-app] process (change the value with --lines option)
+/root/.pm2/logs/results-app-out.log last 15 lines:
+/root/.pm2/logs/results-app-error.log last 15 lines:
+0|results- | Error: DATABASE_URL must be set. Did you forget to provision a database?
+0|results- |     at file:///var/www/results/dist/index.js:58:9
+0|results- |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|results- |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+
+# Test the Nginx configuration
+curl -I http://localhost
+⇆ PM2+ activated | Instance Name: results-cbf9 | Dash: https://app.pm2.io/#/r/pspoo4sf24t01mm┌────┬────────────────────┬──────────┬──────┬───────────┬──────────┬──────────┐
+│ id │ name               │ mode     │ ↺    │ status    │ cpu      │ memory   │
+├────┼────────────────────┼──────────┼──────┼───────────┼──────────┼──────────┤
+│ 0  │ results-app        │ fork     │ 0    │ online    │ 0%       │ 77.7mb   │
+└────┴────────────────────┴──────────┴──────┴───────────┴──────────┴──────────┘
+Unit results.service could not be found.
+[TAILING] Tailing last 15 lines for [results-app] process (change the value with --lines option)
+/root/.pm2/logs/results-app-out.log last 15 lines:
+/root/.pm2/logs/results-app-error.log last 15 lines:
+0|results- | Error: DATABASE_URL must be set. Did you forget to provision a database?
+0|results- |     at file:///var/www/results/dist/index.js:58:9
+0|results- |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|results- |     at async ModuleLoader.import (node

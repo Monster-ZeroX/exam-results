@@ -1,0 +1,3194 @@
+rror importing record #584: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (584, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #585: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (585, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #586: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (586, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #587: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (587, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #588: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (588, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #589: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (589, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #590: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (590, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #591: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (591, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #592: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (592, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #593: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (593, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #594: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (594, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #595: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (595, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #596: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (596, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #597: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (597, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #598: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (598, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #599: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (599, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #600: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (600, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #601: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (601, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #602: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (602, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #603: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (603, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #604: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (604, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #605: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (605, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #606: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (606, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #607: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (607, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #608: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (608, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #609: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (609, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #610: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (610, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #611: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (611, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #612: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (612, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #613: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (613, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #614: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (614, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #615: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (615, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #616: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (616, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #617: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (617, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #618: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (618, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #619: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (619, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #620: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (620, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #621: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (621, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #622: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (622, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #623: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (623, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #624: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (624, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #625: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (625, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #626: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (626, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #627: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (627, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #628: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (628, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #629: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (629, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #630: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (630, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #631: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (631, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #632: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (632, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #633: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (633, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #634: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (634, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #635: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (635, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #636: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (636, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #637: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (637, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #638: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (638, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #639: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (639, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #640: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (640, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #641: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (641, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #642: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (642, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #643: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (643, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #644: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (644, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #645: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (645, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #646: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (646, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #647: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (647, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #648: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (648, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #649: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (649, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #650: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (650, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #651: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (651, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #652: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (652, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #653: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (653, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #654: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (654, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #655: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (655, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #656: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (656, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #657: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (657, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #658: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (658, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #659: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (659, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #660: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (660, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #661: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (661, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #662: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (662, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #663: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (663, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #664: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (664, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #665: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (665, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #666: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (666, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #667: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (667, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #668: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (668, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #669: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (669, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #670: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (670, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #671: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (671, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #672: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (672, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #673: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (673, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #674: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (674, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #675: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (675, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #676: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (676, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #677: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (677, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #678: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (678, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #679: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (679, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #680: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (680, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #681: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (681, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #682: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (682, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #683: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (683, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #684: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (684, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #685: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (685, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #686: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (686, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #687: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (687, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #688: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (688, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #689: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (689, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #690: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (690, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #691: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (691, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #692: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (692, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #693: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (693, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #694: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (694, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #695: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (695, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #696: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (696, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #697: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (697, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #698: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (698, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #699: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (699, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #700: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (700, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #701: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (701, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #702: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (702, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #703: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (703, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #704: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (704, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #705: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (705, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #706: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (706, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #707: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (707, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #708: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (708, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #709: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (709, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #710: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (710, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #711: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (711, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #712: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (712, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #713: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (713, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #714: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (714, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #715: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (715, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #716: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (716, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #717: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (717, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #718: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (718, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #719: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (719, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #720: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (720, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #721: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (721, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #722: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (722, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #723: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (723, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #724: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (724, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #725: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (725, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #726: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (726, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #727: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (727, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #728: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async importData (/var/www/results/import-esm.ts:70:7) {
+  length: 235,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (728, null, null, , , , , {}).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'students',
+  column: 'index_number',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+Error importing record #729: error: null value in column "index_number" of relation "students" violates not-null constraint
+    at /var/www/results/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at asy

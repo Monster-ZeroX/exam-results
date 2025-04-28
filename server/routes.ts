@@ -14,11 +14,15 @@ export async function registerRoutes(app: Express): Promise<Server> {
       const querySchema = z.object({
         q: z.string().min(1).max(100),
         limit: z.coerce.number().optional().default(20),
+        all: z.string().optional(),
       });
       
-      const { q, limit } = querySchema.parse(req.query);
+      const { q, limit, all } = querySchema.parse(req.query);
       
-      const results = await storage.searchStudentsByName(q, limit);
+      // If all=true is passed, use a much higher limit to show all results
+      const effectiveLimit = all === 'true' ? 1000 : limit;
+      
+      const results = await storage.searchStudentsByName(q, effectiveLimit);
       
       res.json({ results });
     } catch (error) {

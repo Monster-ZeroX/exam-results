@@ -1,0 +1,41 @@
+root@results:/var/www/results# sudo systemctl status results
+lsof -i -P -n | grep LISTEN | grep node
+● results.service - Results Website
+     Loaded: loaded (/etc/systemd/system/results.service; enabled; preset: enabled)
+     Active: active (running) since Mon 2025-04-28 12:45:04 UTC; 44s ago
+ Invocation: f11de755ae5945a58e819306e8f4de2d
+   Main PID: 10606 (node)
+      Tasks: 11 (limit: 9485)
+     Memory: 36.8M (peak: 49.9M)
+        CPU: 844ms
+     CGroup: /system.slice/results.service
+             └─10606 /usr/bin/node dist/index.js
+
+Apr 28 12:45:04 results systemd[1]: Started results.service - Results Website.
+Apr 28 12:45:04 results node[10606]: 12:45:04 PM [express] serving on port 5000
+node      10606            root   17u  IPv4  95008      0t0  TCP *:5000 (LISTEN)
+root@results:/var/www/results# sudo journalctl -u results --no-pager -n 50
+Apr 28 12:45:04 results systemd[1]: Started results.service - Results Website.
+Apr 28 12:45:04 results node[10606]: 12:45:04 PM [express] serving on port 5000
+root@results:/var/www/results# sudo systemctl status results
+● results.service - Results Website
+     Loaded: loaded (/etc/systemd/system/results.service; enabled; preset: enabled)
+     Active: active (running) since Mon 2025-04-28 12:45:04 UTC; 1min 31s ago
+ Invocation: f11de755ae5945a58e819306e8f4de2d
+   Main PID: 10606 (node)
+      Tasks: 11 (limit: 9485)
+     Memory: 36.8M (peak: 49.9M)
+        CPU: 845ms
+     CGroup: /system.slice/results.service
+             └─10606 /usr/bin/node dist/index.js
+
+Apr 28 12:45:04 results systemd[1]: Started results.service - Results Website.
+Apr 28 12:45:04 results node[10606]: 12:45:04 PM [express] serving on port 5000
+root@results:/var/www/results# ps aux | grep node
+root       10186  0.1  0.6 1027596 53076 pts/2   Sl+  12:39   0:00 node /usr/bin/pm2 logs results-app
+root       10606  0.8  1.0 11795164 88236 ?      Ssl  12:45   0:00 /usr/bin/node dist/index.js
+root       10646  0.0  0.0   7152  2148 pts/3    S+   12:46   0:00 grep --color=auto node
+root@results:/var/www/results# sudo journalctl -u results --no-pager -n 100
+Apr 28 12:45:04 results systemd[1]: Started results.service - Results Website.
+Apr 28 12:45:04 results node[10606]: 12:45:04 PM [express] serving on port 5000
+root@results:/var/www/results# 
