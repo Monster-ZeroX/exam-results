@@ -11,12 +11,14 @@ interface SearchBarProps {
 export default function SearchBar({ onSelectStudent }: SearchBarProps) {
   const [searchTerm, setSearchTerm] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [showAllResults, setShowAllResults] = useState(false);
   const searchRef = useRef<HTMLDivElement>(null);
 
   // Debounced search query
   const debouncedSearch = debounce((term: string) => {
     if (term.length >= 2) {
       setShowSuggestions(true);
+      setShowAllResults(false); // Reset to default limit when typing
     } else {
       setShowSuggestions(false);
     }
@@ -24,10 +26,12 @@ export default function SearchBar({ onSelectStudent }: SearchBarProps) {
 
   // Search query using TanStack Query
   const { data, isLoading, error } = useQuery({
-    queryKey: ["/api/search", searchTerm],
+    queryKey: ["/api/search", searchTerm, showAllResults],
     enabled: searchTerm.length >= 2,
     queryFn: async () => {
-      const res = await fetch(`/api/search?q=${encodeURIComponent(searchTerm)}`);
+      // Add the 'all' parameter when showAllResults is true
+      const url = `/api/search?q=${encodeURIComponent(searchTerm)}${showAllResults ? '&all=true' : ''}`;
+      const res = await fetch(url);
       if (!res.ok) {
         throw new Error("Failed to fetch suggestions");
       }
@@ -56,6 +60,16 @@ export default function SearchBar({ onSelectStudent }: SearchBarProps) {
   const handleClearSearch = () => {
     setSearchTerm("");
     setShowSuggestions(false);
+    setShowAllResults(false);
+  };
+  
+  // Handle form submission (Enter key)
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchTerm.trim().length >= 2) {
+      setShowAllResults(true);
+      setShowSuggestions(true);
+    }
   };
 
   // Close suggestions when clicking outside
@@ -74,7 +88,7 @@ export default function SearchBar({ onSelectStudent }: SearchBarProps) {
 
   return (
     <div className="relative max-w-2xl mx-auto mb-10" ref={searchRef}>
-      <div className="relative">
+      <form onSubmit={handleSubmit} className="relative">
         <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
           <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-gray-400" viewBox="0 0 20 20" fill="currentColor">
             <path fillRule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clipRule="evenodd" />
@@ -84,7 +98,7 @@ export default function SearchBar({ onSelectStudent }: SearchBarProps) {
         <input
           type="text"
           className="block w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-primary focus:border-primary transition"
-          placeholder="Type a student name..."
+          placeholder="Type a student name... (Press Enter for more results)"
           aria-label="Search for a student"
           aria-controls="search-suggestions"
           value={searchTerm}
@@ -94,6 +108,7 @@ export default function SearchBar({ onSelectStudent }: SearchBarProps) {
         <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
           {searchTerm && (
             <button 
+              type="button"
               onClick={handleClearSearch}
               className="text-gray-400 hover:text-gray-500 focus:outline-none"
               aria-label="Clear search"
@@ -113,7 +128,7 @@ export default function SearchBar({ onSelectStudent }: SearchBarProps) {
             </div>
           )}
         </div>
-      </div>
+      </form>
       
       {/* Suggestions dropdown */}
       {showSuggestions && (

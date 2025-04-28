@@ -83,6 +83,12 @@ export default function SuggestionsList({
       role="listbox"
       aria-label="Search suggestions"
     >
+      {/* Results count info */}
+      {!isLoading && !error && suggestions.length > 20 && (
+        <div className="px-4 py-2 bg-gray-50 border-b border-gray-200 text-sm text-gray-600">
+          Showing {suggestions.length} results
+        </div>
+      )}
       <ul 
         ref={listRef}
         className="max-h-60 overflow-y-auto py-1 text-base" 
@@ -150,6 +156,13 @@ export default function SuggestionsList({
           </li>
         ))}
       </ul>
+      
+      {/* Footer prompt for more results */}
+      {!isLoading && !error && suggestions.length > 0 && suggestions.length <= 20 && (
+        <div className="px-4 py-2 bg-gray-50 border-t border-gray-200 text-sm text-center text-gray-600">
+          <span>Press <kbd className="mx-1 px-2 py-0.5 text-xs bg-gray-200 border border-gray-300 rounded shadow-sm">Enter</kbd> to see all matching results</span>
+        </div>
+      )}
     </div>
   );
 }
