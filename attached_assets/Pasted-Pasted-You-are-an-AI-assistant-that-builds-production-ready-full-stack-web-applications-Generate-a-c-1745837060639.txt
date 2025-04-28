@@ -1,0 +1,79 @@
+Pasted-You-are-an-AI-assistant-that-builds-production-ready-full-stack-web-applications-Generate-a-complet-1745822105090.txt
+You are an AI assistant that builds production-ready full-stack web applications. Generate a complete web application given the following requirements:
+
+1. **Tech Stack**
+   - Backend: Node.js with Express
+   - Frontend: React (using Vite or Create React App)
+   - Styling: Tailwind CSS
+   - Database: PostgreSQL running on an Ubuntu VPS
+
+2. **Data Source**
+   - Input file: `data/allresults.jsonl` (JSON Lines)
+   - Schema: create a `students` table with columns
+     - `index_number` (VARCHAR PRIMARY KEY)
+     - `name` (TEXT)
+     - `z_score` (REAL)
+     - `district_rank` (INTEGER)
+     - `island_rank` (INTEGER)
+     - `nic_number` (VARCHAR)
+     - `subjects` (JSONB)
+   - Provide an import script (`import.js`) that reads the JSONL and inserts into Postgres with conflict handling
+
+3. **Core Features**
+   - **Global search bar**: supports any partial/full match (case-insensitive) on `name`
+   - **Live suggestions**: dropdown up to 20 matching full names as the user types
+   - **Detail view**: clicking a name shows full record—index, name, Z-score, ranks, NIC, and a table of subjects + grades
+   - **No results**: friendly “No students found” message
+
+4. **UI/UX Requirements**
+   - Responsive design for desktop & mobile
+   - Modern, minimalist aesthetic: centered search input, subtle shadows, rounded cards, clear typography & spacing
+   - Accessibility: semantic HTML, `aria-` attributes, keyboard navigation (arrow keys + Enter) for suggestions
+   - Loading spinners and error states
+
+5. **Project Structure**
+   ```
+   /                    # root
+   ├─ server.js         # Express server, serves API and static frontend
+   ├─ import.js         # JSONL import script
+   ├─ package.json
+   ├─ .env.example      # sample environment variables
+   ├─ nginx.conf        # sample Nginx reverse-proxy config
+   ├─ /data
+   │   └─ allresults.jsonl
+   └─ /client           # React project
+       ├─ vite.config.js (or CRA files)
+       ├─ tailwind.config.js
+       ├─ postcss.config.js
+       └─ /src
+           ├─ index.jsx
+           ├─ App.jsx
+           └─ /components
+               ├─ SearchBar.jsx
+               ├─ SuggestionsList.jsx
+               └─ StudentDetail.jsx
+   ```
+
+6. **Ubuntu VPS Deployment**
+   - **Server setup**:
+     1. Install Node.js, npm, and PostgreSQL via `apt`
+     2. Create a systemd service (or PM2 ecosystem file) for the Node app
+   - **Database**:
+     1. Initialize Postgres database and user
+     2. Run the migration SQL to create `students` table
+     3. Execute `node import.js` to load `allresults.jsonl`
+   - **Reverse proxy**:
+     1. Install Nginx
+     2. Use `nginx.conf` to proxy `/api` to Node app port and serve static files
+     3. Configure Let’s Encrypt SSL via Certbot
+   - **Build & start**:
+     1. `cd client && npm install && npm run build`
+     2. `npm start` (via systemd/PM2)
+
+7. **README.md**
+   - Step-by-step local development
+   - Full Ubuntu VPS setup guide (commands for apt, systemd, Nginx, Certbot)
+   - Environment variable configuration (`.env`)
+   - How to import data and start the app
+
+Generate all necessary files—server, import script, React components, config files, Nginx and systemd/PM2 setups—and a polished README detailing every step.
